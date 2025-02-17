@@ -5,13 +5,13 @@
 
 
 ## Exercise.java
-![](https://github.com/ppc-ntu-khpi/methods-Diassont/blob/main/Solution/1.png?raw=true)
+![](https://github.com/ppc-ntu-khpi/methods-Diassont/blob/master/Solution/1.png?raw=true)
 
 
 ## TestResult.java
-![](https://github.com/ppc-ntu-khpi/methods-Diassont/blob/main/Solution/2.png?raw=true)
+![](https://github.com/ppc-ntu-khpi/methods-Diassont/blob/master/Solution/2.png?raw=true)
 
 
 ## Результат того, що програма працює
-![](https://github.com/ppc-ntu-khpi/methods-Diassont/blob/main/Solution/3.png?raw=true)
+![](https://github.com/ppc-ntu-khpi/methods-Diassont/blob/master/Solution/3.png?raw=true)
 
